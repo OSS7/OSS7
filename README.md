@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ossama</h1>
 <h3 align="center">A passionate Flutter developer from Syria</h3>
-<img width='400' alt='programmer' align="right" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaJ7XnA4g4A6j4dKJmgXYocciMrXSgoEywhw&usqp=CAU)"/>
+<img width='400' alt='programmer' align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaJ7XnA4g4A6j4dKJmgXYocciMrXSgoEywhw&usqp=CAU"/>
 
 
 - 🌱 I’m currently learning **Laravel, Algorithm, Advanced Flutter**
