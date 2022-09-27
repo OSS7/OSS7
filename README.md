@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oss7" alt="oss7" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Algorithm, Kotlin**
+- 🌱 I’m currently learning **Laravel, Algorithm, Advanced Flutter**
 
 - 💬 Ask me about **Flutter, Html, CSS, Python, Database**
 
