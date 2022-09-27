@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ossama</h1>
 <h3 align="center">A passionate Flutter developer from Syria</h3>
-<img width='400' alt='programmer' align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"/>
+<img width='400' alt='programmer' align="right" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaJ7XnA4g4A6j4dKJmgXYocciMrXSgoEywhw&usqp=CAU)"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oss7" alt="oss7" /></a> </p>
 
