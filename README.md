@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ossama</h1>
-<h3 align="center">A passionate Flutter developer from Syria</h3>
+<h3 align="center">A passionate Fullstack Mobile Developer</h3>
 <img width='400' alt='programmer' align="right" src="https://codequotient.com/blog/wp-content/uploads/2020/12/6-Reasons-Why-Having-a-Professional-Coder-Certification-Is-Crucial.jpg"/>
 
 
