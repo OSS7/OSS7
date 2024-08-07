@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ossama</h1>
-<h3 align="center">A passionate Fullstack Mobile Developer</h3>
-<img width='400' alt='programmer' align="right" src="https://codequotient.com/blog/wp-content/uploads/2020/12/6-Reasons-Why-Having-a-Professional-Coder-Certification-Is-Crucial.jpg"/>
+<h3 align="center">A passionate Software Developer</h3>
+<img width='400' alt='programmer' align="right" src="https://www.21kschool.com/ng/wp-content/uploads/sites/28/2023/07/Coding.png"/>
 
-
-- 🌱 I’m currently learning **Laravel, Algorithm, Advanced Flutter**
-
-- 💬 Ask me about **Flutter, Html, CSS, Python, Database**
+- 💬 Ask me about **Data Structure, Algorithems, Flutter, Laravel, Html, CSS, Python, Database**
 
 - 📫 How to reach me **ossamaaxider@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ossama-khader-16214a195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ossama-khader-16214a195" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ossama-kheder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ossama-khader" height="30" width="40" /></a>
 <a href="https://fb.com/ossama khader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ossama khader" height="30" width="40" /></a>
 <a href="https://instagram.com/ossama_sy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ossama_sy" height="30" width="40" /></a>
 </p>
