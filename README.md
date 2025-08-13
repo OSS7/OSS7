@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ossama</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<img width='400' alt='programmer' align="right" src="https://www.21kschool.com/ng/wp-content/uploads/sites/28/2023/07/Coding.png"/>
-
 - 💬 Ask me about **Data Structure, Algorithems, Flutter, Laravel, Html, CSS, Python, Database**
 
 - 📫 How to reach me **ossamaaxider@gmail.com**
